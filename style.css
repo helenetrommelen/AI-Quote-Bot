@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+html {
+    background-color: rgb(247, 139, 211);
+    font-family: 'Caprasimo', cursive;
+    color: rgb(44, 44, 44);
+    line-height: 1.4;
+}
+
+h1 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+p {
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 25px;
+}
